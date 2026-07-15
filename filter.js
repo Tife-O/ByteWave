@@ -685,6 +685,9 @@ filterPlaces(); // Display all places initially
 //////
 //////
 //////
+
+//////
+
 // Function to clear all selected filters and update the displayed results
 function clearFilters() {
     // Get all filter inputs and select elements
