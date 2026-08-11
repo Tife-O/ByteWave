@@ -28,7 +28,7 @@ Our mission goes beyond just helping customers; we are passionate about supporti
 
 We are a passionate team of **All Star Code** students, driven by our ambition to push the boundaries of what's possible in the world of programming. As young innovators, we are dedicated to exploring new technologies, embracing challenges, and turning ideas into reality. Join us on this exciting journey as we learn, create, and inspire the next generation of tech leaders.
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 1. Clone the repository: `git clone https://github.com/yourusername/ByteWave.git`
 2. Navigate to the project directory: `cd ByteWave`
